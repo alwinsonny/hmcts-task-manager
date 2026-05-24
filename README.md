@@ -271,7 +271,6 @@ Health check.
 | Variable       | Default                                                   | Description         |
 |----------------|-----------------------------------------------------------|---------------------|
 | `DATABASE_URL` | `mysql+pymysql://root:password@localhost:3306/hmcts_tasks` | MySQL connection URL |
-| `SECRET_KEY`   | `dev-secret-key-change-in-production`                      | Flask secret key    |
 
 ### Frontend
 
